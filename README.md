@@ -11,4 +11,4 @@
 | B7Web | <a href="https://alunos.b7web.com.br/curso/javascript/descontruindo-objetos-1">JavaScript ECMA6 </a> (40h) | --- | There is not | Not Started |
 | Let's Code | <a href="https://cursos.letscode.com.br/curso-digital/2120c9f0-02ba-45c1-a81d-3ed26232cc0c">Logica Pura </a> (3,5h) | --- | There is not | Not Started |
 | Let's Code | <a href="https://cursos.letscode.com.br/curso-digital/5e4b6418-bbc5-4386-af61-a73990a4a745">Algoritmos </a> (2h) | --- | There is not | Not Started |
-| Let's Code | <a href="https://cursos.letscode.com.br/curso-digital/9ea568fb-953b-4ac2-a928-46a850b4fa1e">Web & React </a> (5h) | --- | There is not | Not Started |
+| Let's Code | <a href="https://cursos.letscode.com.br/curso-digital/9ea568fb-953b-4ac2-a928-46a850b4fa1e">Web & React </a> (5h) | --- | There is not | 15% |
