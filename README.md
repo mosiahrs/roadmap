@@ -14,3 +14,4 @@
 | Let's Code | <a href="https://cursos.letscode.com.br/curso-digital/9ea568fb-953b-4ac2-a928-46a850b4fa1e">Web & React </a> (5h) | --- | There is not | 15% |
 | Dev Lab | <a href="https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab">Node JS com TypeScript </a> (20h) | --- | There is not | Not Started |
 | Guia do Programador | <a href="https://cursos.ead.education/curso/node-js/"> Node JS </a> (16h) | --- | There is not | 1% |
+| Gama Academy | <a href="https://app.gama.academy/jornada/bc77ea-fundamentos-de-front-end/"> BootStrap </a> (1h) | --- | There is not | Not Started |
