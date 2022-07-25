@@ -12,3 +12,5 @@
 | Let's Code | <a href="https://cursos.letscode.com.br/curso-digital/2120c9f0-02ba-45c1-a81d-3ed26232cc0c">Logica Pura </a> (3,5h) | --- | There is not | Not Started |
 | Let's Code | <a href="https://cursos.letscode.com.br/curso-digital/5e4b6418-bbc5-4386-af61-a73990a4a745">Algoritmos </a> (2h) | --- | There is not | Not Started |
 | Let's Code | <a href="https://cursos.letscode.com.br/curso-digital/9ea568fb-953b-4ac2-a928-46a850b4fa1e">Web & React </a> (5h) | --- | There is not | 15% |
+| Dev Lab | <a href="https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab">Node JS com TypeScript </a> (20h) | --- | There is not | Not Started |
+| Guia do Programador | <a href="https://cursos.ead.education/curso/node-js/"> Node JS </a> (16h) | --- | There is not | 1% |
