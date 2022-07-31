@@ -1,4 +1,11 @@
-<h2 align="center"> RoadMap - Mosiah</h2>
+<h2 align="center"> RoadMap<a  href="https://blogger.googleusercontent.com/img/a/AVvXsEjiw8YnfKdxD0CQ3oN_zm3IjEilIIMzOKOAfUDGMJ_EoyllYwuAmMNXk2Lvwg3Heb6zZv4qtRgnDjxO5gZacVblreTnI5yfseau5rpxYuvUzxu5xpYbxU3v7ovefzBfgPki2KCTUloHMCo0ki--Ov5GKERp3a9iNbYOKu-Uxtl04NrBNimGs-4GtlFs=s16000"/> <img width="50" src="https://user-images.githubusercontent.com/100864562/182005362-10972f01-aebe-4e31-91c1-f846c6c71c6a.png" /> </a></h2>
+<p align="center">
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img width="48" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" />
+</p>
+
+<div align="center">
+
+</div>
 
 
 | Organization | Course | Start Date | End Date | Status |
