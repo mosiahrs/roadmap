@@ -11,13 +11,14 @@
 | Organization | Course | Start Date | Status |
 | ---- | ----- | ---- | ----- |
 | Let's Code | 🧠 <a href="https://cursos.letscode.com.br/curso-digital/2120c9f0-02ba-45c1-a81d-3ed26232cc0c">Logica Pura </a> (3,5h) | --- | 25%|
-| Let's Code | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" /> <a href="https://cursos.letscode.com.br/curso-digital/5e4b6418-bbc5-4386-af61-a73990a4a745">Algoritmos </a> (2h) | --- | 100% |
+| Let's Code | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" /> <a href="https://cursos.letscode.com.br/curso-digital/5e4b6418-bbc5-4386-af61-a73990a4a745">Algoritmos </a> (2h) | 27/07/2022 | 100% |
+| Startse | <img width="25" src="https://user-images.githubusercontent.com/100864562/182008732-c94e4f7a-cebb-4c65-8d96-82c661b6dce7.png" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">Full Stack Jr Developer</a> (11sem) | 04/05/2022 | 100% |
 
 <h2>🎨 Front-End</h2>
 
 | Organization | Course | Start Date | Status |
 | ---- | ----- | ---- | ----- |
-| Branas.io | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://app.branas.io/users/8ac8513f-244f-4092-bce0-6794de4bf142/products/676afa5b-994f-4b2a-a6f7-6221c540e6cc/contents/c967d642-60c7-4941-bed9-7ace14f11436">JavaScript </a> (40h) | --- | 50% |
+| Branas.io | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://app.branas.io/users/8ac8513f-244f-4092-bce0-6794de4bf142/products/676afa5b-994f-4b2a-a6f7-6221c540e6cc/contents/c967d642-60c7-4941-bed9-7ace14f11436">JavaScript </a> (12h) | 31/07/2022 | 1% |
 | B7Web | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://alunos.b7web.com.br/curso/javascript/descontruindo-objetos-1">JavaScript ECMA6 </a> (40h) | --- | There is not | Not Started |
 | Dev Lab | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab">Node JS com TypeScript </a> (20h) | --- | There is not | Not Started |
 | Glaucia Lemos | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H"> TypeScript Zero to Hero </a> (20h) | --- | There is not | Not Started |
@@ -27,6 +28,10 @@
 
 | Organization | Course | Start Date | Status |
 | ---- | ----- | ---- | ----- |
-| Guia do Programador | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <a href="https://cursos.ead.education/curso/node-js/"> Node JS </a> (16h) | --- | There is not | 1% |
-| Aprenda Mais MEC | <img width="25" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" /> <a href="https://aprendamais.mec.gov.br/course/view.php?id=467">Banco de Dados: fundamentos</a> (30h) - 31/01/2023 | - | Not Started |
+| Loiane Training | <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><a href="https://loiane.training/curso/java-basico"> Java Basico</a> (23h) | --- | Not Started |
+| Loiane Training | <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><a href="https://loiane.training/curso/java-intermediario"> Java Intermediario</a> (9h) | --- | Not Started |
+| Guia do Programador | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <a href="https://cursos.ead.education/curso/node-js/"> Node JS </a> (16h) | --- | 1% |
+| Aprenda Mais MEC | <img width="25" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" /> <a href="https://aprendamais.mec.gov.br/course/view.php?id=467">Banco de Dados: fundamentos</a> (30h) - 31/01/2023 | --- | Not Started |
+
+
 
