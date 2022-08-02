@@ -24,6 +24,8 @@
 | Glaucia Lemos | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H"> TypeScript Zero to Hero </a> (20h) | --- | There is not | Not Started |
 | Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/angular"> Angular (v2+)</a> | --- | There is not | Not Started |
 | Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/crud-angular-spring"> CRUD Angular + Spring </a> | --- | There is not | Not Started |
+| cod3r| <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://www.cod3r.com.br/courses/angular-9-essencial"> Angular 9 - Essencial </a> | --- | There is not | Not Started |
+| Udemy| <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://www.udemy.com/course/angular-9-essencial/"> Angular 9 Essentials[2020] </a> | --- | There is not | Not Started |
 | Gama Academy | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> <a href="https://app.gama.academy/jornada/bc77ea-fundamentos-de-front-end/"> BootStrap </a> (1h) | --- | There is not | Not Started |
             
 <h2>🧮 Back-end </h2>
