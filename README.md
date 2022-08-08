@@ -24,14 +24,6 @@
 | DIO | <img width="25" src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">Santander Full Stack Developer</a> | 20/05/2022 | 25% |
 
 <br>
-<h2>💾 Fundamentos </h2>
-
-| Organization | Course | Start Date | Status |
-| ---- | ----- | ---- | ----- |
-| Let's Code | 🧠 <a href="https://cursos.letscode.com.br/curso-digital/2120c9f0-02ba-45c1-a81d-3ed26232cc0c">Logica Pura </a> (3,5h) | --- | 25%|
-| Let's Code | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" /> <a href="https://cursos.letscode.com.br/curso-digital/5e4b6418-bbc5-4386-af61-a73990a4a745">Algoritmos </a> (2h) | 27/07/2022 | 100% |
-
-<br>
 <h2>🎨 Front-End</h2>
 
 | Organization | Course | Start Date | Status |
@@ -57,6 +49,12 @@
 | Erick Wendell | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <a href="https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr"> Node JS para iniciantes </a> (16h) | --- | 1% |
 | Aprenda Mais MEC | <img width="25" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" /> <a href="https://aprendamais.mec.gov.br/course/view.php?id=467">Banco de Dados: fundamentos</a> (30h) - 31/01/2023 | --- | Not Started |
 
+<br>
+<h2>💾 Fundamentos </h2>
 
+| Organization | Course | Start Date | Status |
+| ---- | ----- | ---- | ----- |
+| Let's Code | 🧠 <a href="https://cursos.letscode.com.br/curso-digital/2120c9f0-02ba-45c1-a81d-3ed26232cc0c">Logica Pura </a> (3,5h) | --- | 25%|
+| Let's Code | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" /> <a href="https://cursos.letscode.com.br/curso-digital/5e4b6418-bbc5-4386-af61-a73990a4a745">Algoritmos </a> (2h) | 27/07/2022 | 100% |
 
 
