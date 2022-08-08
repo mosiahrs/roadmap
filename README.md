@@ -22,6 +22,7 @@
 | DIO | <img width="25" src="https://play-lh.googleusercontent.com/P3xTS7gQrh0S2e_99KmHVGiVUcvepvj4eFFhqU_y6XFRegRoo1fTZ8r6t1MUsmfRxXNJ" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">HTML Web Developer</a> 27Hrs| 04/04/2022| <a href="https://www.dio.me/certificate/3AA9D759/share">100%</a> |
 | DIO | <img width="25" src="https://hermes.digitalinnovation.one/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">Java Developer</a>  | 06/08/2022 | 12% |
 | DIO | <img width="25" src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">Santander Full Stack Developer</a> | 20/05/2022 | 25% |
+| ORACLE | <img width="25" src="https://user-images.githubusercontent.com/100864562/183510087-2048a87f-49ad-485c-b20d-a772acb439f5.png"> <a href="https://learn.oracle.com/ols/module/overview/40805/79727"> Java Explorer SE 11 </a> | Not Started | 0% |
 
 <br>
 <h2>🎨 Front-End</h2>
