@@ -35,6 +35,7 @@
 | Loiane Training | <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><a href="https://loiane.training/curso/java-basico"> Java Basico</a> (23h) | --- | Not Started |
 | Loiane Training | <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><a href="https://loiane.training/curso/java-intermediario"> Java Intermediario</a> (9h) | --- | Not Started |
 | Guia do Programador | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <a href="https://cursos.ead.education/curso/node-js/"> Node JS </a> (16h) | --- | 1% |
+| Erick Wendell | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <a href="https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr"> Node JS para iniciantes </a> (16h) | --- | 1% |
 | Aprenda Mais MEC | <img width="25" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" /> <a href="https://aprendamais.mec.gov.br/course/view.php?id=467">Banco de Dados: fundamentos</a> (30h) - 31/01/2023 | --- | Not Started |
 
 
