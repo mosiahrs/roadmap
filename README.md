@@ -11,7 +11,7 @@
   
 | 🎓 Graduation  |
 | --- |
-| Systems Analysis and Developmento - <a href="">@Universidade Cruzeiro do Sul</a>|
+| Systems Analysis and Development - <a href="">@Universidade Cruzeiro do Sul</a>|
 
 <br>
 <h2>📌 BootCamps </h2>
