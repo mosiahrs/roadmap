@@ -29,23 +29,20 @@
 
 | Organization | Course | Start Date | Status |
 | ---- | ----- | ---- | ----- |
+| Gama Academy | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> <a href="https://app.gama.academy/jornada/bc77ea-fundamentos-de-front-end/"> BootStrap </a> (1h) | --- | Not Started |
 | Branas.io | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://app.branas.io/users/8ac8513f-244f-4092-bce0-6794de4bf142/products/676afa5b-994f-4b2a-a6f7-6221c540e6cc/contents/c967d642-60c7-4941-bed9-7ace14f11436">JavaScript </a> (12h) | 31/07/2022 | 80% |
-| B7Web | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://alunos.b7web.com.br/curso/javascript/descontruindo-objetos-1">JavaScript ECMA6 </a> (40h) | --- | There is not | Not Started |
-| Dev Lab | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab">Node JS com TypeScript </a> (20h) | --- | There is not | Not Started |
-| Glaucia Lemos | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H"> TypeScript Zero to Hero </a> (20h) | --- | There is not | Not Started |
-| Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/angular"> Angular (v2+)</a> | --- | There is not | Not Started |
-| Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/crud-angular-spring"> CRUD Angular + Spring </a> | --- | There is not | Not Started |
-| cod3r| <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://www.cod3r.com.br/courses/angular-9-essencial"> Angular 9 - Essencial </a> | --- | There is not | Not Started |
-| Udemy| <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://www.udemy.com/course/angular-9-essencial/"> Angular 9 Essentials[2020] </a> | --- | There is not | Not Started |
-| Gama Academy | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> <a href="https://app.gama.academy/jornada/bc77ea-fundamentos-de-front-end/"> BootStrap </a> (1h) | --- | There is not | Not Started |
+| B7Web | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://alunos.b7web.com.br/curso/javascript/descontruindo-objetos-1">JavaScript ECMA6 </a> (40h) | --- | Not Started |
+| Dev Lab | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab">Node JS com TypeScript </a> (20h) | --- | Not Started |
+| Glaucia Lemos | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H"> TypeScript Zero to Hero </a> (20h) | --- | Not Started |
+| Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/angular"> Angular (v2+)</a> | --- |  Not Started |
+| Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/crud-angular-spring"> CRUD Angular + Spring </a> | --- | Not Started |
+
 
 <br>          
 <h2>🧮 Back-end </h2>
 
 | Organization | Course | Start Date | Status |
 | ---- | ----- | ---- | ----- |
-| Loiane Training | <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><a href="https://loiane.training/curso/java-basico"> Java Basico</a> (23h) | --- | Not Started |
-| Loiane Training | <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><a href="https://loiane.training/curso/java-intermediario"> Java Intermediario</a> (9h) | --- | Not Started |
 | Guia do Programador | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <a href="https://cursos.ead.education/curso/node-js/"> Node JS </a> (16h) | --- | 1% |
 | Erick Wendell | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <a href="https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr"> Node JS para iniciantes </a> (16h) | --- | 1% |
 | Aprenda Mais MEC | <img width="25" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" /> <a href="https://aprendamais.mec.gov.br/course/view.php?id=467">Banco de Dados: fundamentos</a> (30h) - 31/01/2023 | --- | Not Started |
