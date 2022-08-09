@@ -44,7 +44,7 @@
 | Aprenda Mais MEC | <img width="25" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" /> <a href="https://aprendamais.mec.gov.br/course/view.php?id=467">Banco de Dados: fundamentos</a> (30h) - 31/01/2023 | --- | Not Started |
 
 <br>
-<h2>💾 Fundamentos </h2>
+<h2>💾 Fundamentals </h2>
 
 | Organization | Course | Start Date | Status |
 | ---- | ----- | ---- | ----- |
