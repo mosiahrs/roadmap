@@ -1,17 +1,21 @@
-<h1 align="center"> Roadmap <a  href="https://blogger.googleusercontent.com/img/a/AVvXsEjiw8YnfKdxD0CQ3oN_zm3IjEilIIMzOKOAfUDGMJ_EoyllYwuAmMNXk2Lvwg3Heb6zZv4qtRgnDjxO5gZacVblreTnI5yfseau5rpxYuvUzxu5xpYbxU3v7ovefzBfgPki2KCTUloHMCo0ki--Ov5GKERp3a9iNbYOKu-Uxtl04NrBNimGs-4GtlFs=s16000"/> <img width="50" src="https://user-images.githubusercontent.com/100864562/182005362-10972f01-aebe-4e31-91c1-f846c6c71c6a.png" /> </a> Mosiah Silva</h1>
+<h1 align="center"> Roadmap Mosiah Silva</h1>
 <p align="center">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </p>
 
 <div align="center">
-  <h3>Angular | Java Spring boot - Full Stack</h3>
+  <h3>Angular | Java | Spring boot | Full Stack</h3>
 </div>
 
 <br>
-  
-| 🎓 Graduation  |
-| --- |
-| Systems Analysis and Development - <a href="">@Universidade Cruzeiro do Sul</a>|
+
+
+<h2> 🎓 Technologist/ Bachelor degree </h2>
+
+| University | Course | End |
+|-|-|-|
+| <a href="https://www.cruzeirodosul.edu.br/">  <img heigth="80" width="200" src="https://arquivos.cruzeirodosuleducacional.edu.br/criacao/salesforce/logos/cruzeiro_neg.png"></a>| Systems Analysis and Development | December<b>/2023</b> |
+
 
 <br>
 <h2>📌 BootCamps </h2>
@@ -25,7 +29,7 @@
 | ORACLE | <img width="25" src="https://user-images.githubusercontent.com/100864562/183510087-2048a87f-49ad-485c-b20d-a772acb439f5.png"> <a href="https://learn.oracle.com/ols/module/overview/40805/79727"> Java Explorer SE 11 </a> 10Hrs | Not Started | 0% |
 
 <br>
-<h2>Courses</h2>
+<h2>💻 Courses</h2>
 
 | Organization | Course | Start Date | Status |
 | ---- | ----- | ---- | ----- |
