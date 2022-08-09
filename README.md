@@ -15,6 +15,7 @@
 | University | Course | End |
 |-|-|-|
 | <a href="https://www.cruzeirodosul.edu.br/">  <img heigth="80" width="200" src="https://arquivos.cruzeirodosuleducacional.edu.br/criacao/salesforce/logos/cruzeiro_neg.png"></a>| Systems Analysis and Development | December<b>/2023</b> |
+| <a href="https://github.com/Universidade-Livre/ciencia-da-computacao"> <img width="50" src="https://pbs.twimg.com/profile_images/1534959519859605504/soL457b6_400x400.jpg"></a><b> Universidade Brasileira Livre</b> | Computer Science | Not Started | 
 
 
 <br>
