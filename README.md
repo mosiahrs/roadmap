@@ -9,10 +9,11 @@
 <br>
 <h2>📌 BootCamps </h2>
 
-| Organization | Course | Start Date | Status | End Date |
+| Organization | Course | Start Date | Status | Certification |
 | -------|-----------|------------|------------- | -- |
-| DIO | <img width="25" src="https://play-lh.googleusercontent.com/P3xTS7gQrh0S2e_99KmHVGiVUcvepvj4eFFhqU_y6XFRegRoo1fTZ8r6t1MUsmfRxXNJ" /> <a href="https://web.dio.me/home">HTML Web Developer</a> 27Hrs| 04/04/2022| <a href="https://www.dio.me/certificate/9C6BD30C"> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | April/2022 |
-| Startse | <img width="25" src="https://user-images.githubusercontent.com/100864562/182008732-c94e4f7a-cebb-4c65-8d96-82c661b6dce7.png" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">Full Stack Jr Developer</a> 100Hrs | 04/05/2022 | <a href="https://drive.google.com/file/d/1_QyeD7nUkO70rMq-UjWriNPJKEBbvhvo/view?usp=sharing">  ![progress](https://progress-bar.dev/100/ "progresso") </a> | July/2022 |
+| DIO | <img width="25" src="https://play-lh.googleusercontent.com/P3xTS7gQrh0S2e_99KmHVGiVUcvepvj4eFFhqU_y6XFRegRoo1fTZ8r6t1MUsmfRxXNJ" /> <a href="https://web.dio.me/home">HTML Web Developer</a> 27Hrs| 04/04/2022| <a href="https://www.dio.me/certificate/9C6BD30C"> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | <a href="https://drive.google.com/file/d/1OfWl2Y4EfzUKyF3OI4FZmaRo0e1Xo7Ma/view?usp=sharing">April/2022</a> |
+| Startse | <img width="25" src="https://user-images.githubusercontent.com/100864562/182008732-c94e4f7a-cebb-4c65-8d96-82c661b6dce7.png" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">Full Stack Jr Developer</a> 100Hrs | 04/05/2022 | <a href="https://drive.google.com/file/d/1_QyeD7nUkO70rMq-UjWriNPJKEBbvhvo/view?usp=sharing">  ![progress](https://progress-bar.dev/100/ "progresso") </a> | <a href="https://drive.google.com/file/d/1zIsrM7zc90wc19EgslnNCQuc-vs5jXUs/view?usp=sharing">July/2022</a> |
+| FreecodeCamp | <img width="25" src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU"> <a href="freecodecamp.org/"> Responsive Web Design</a> 300Hrs | feb/22 | <a href="https://www.dio.me/certificate/9C6BD30C"> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | <a href="https://drive.google.com/file/d/1ekBek8OlkqxzRf5kXKkUETqHZJ_bp2pj/view?usp=sharing">August/2022</a> | 
 <br>
 <h2> 🎓 Technologist/ Bachelor degree </h2>
 
