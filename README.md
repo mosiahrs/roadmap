@@ -9,33 +9,33 @@
 <br>
 <h2>📌 BootCamps </h2>
 
-| Organization | Course | Start Date | Status | Certification | Stack |
-| -------|-----------|------------|------------- | -- | -- |
-| DIO | <img width="25" src="https://play-lh.googleusercontent.com/P3xTS7gQrh0S2e_99KmHVGiVUcvepvj4eFFhqU_y6XFRegRoo1fTZ8r6t1MUsmfRxXNJ" /> <a href="https://web.dio.me/home">HTML Web Developer</a> 27Hrs| 04/04/2022| <a href="https://www.dio.me/certificate/9C6BD30C"> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | <a href="https://drive.google.com/file/d/1OfWl2Y4EfzUKyF3OI4FZmaRo0e1Xo7Ma/view?usp=sharing">April/2022</a> | HTML5 / CSS3 |
-| Startse | <img width="25" src="https://user-images.githubusercontent.com/100864562/182008732-c94e4f7a-cebb-4c65-8d96-82c661b6dce7.png" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">Full Stack Jr Developer</a> 100Hrs | 04/05/2022 | <a href="https://drive.google.com/file/d/1_QyeD7nUkO70rMq-UjWriNPJKEBbvhvo/view?usp=sharing">  ![progress](https://progress-bar.dev/100/ "progresso") </a> | <a href="https://drive.google.com/file/d/1zIsrM7zc90wc19EgslnNCQuc-vs5jXUs/view?usp=sharing">July/2022</a> | JavaScript / NodeJS / MySQL |
-| FreecodeCamp | <img width="25" src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU"> <a href="freecodecamp.org/"> Responsive Web Design</a> 300Hrs | feb/22 | <a href="https://www.dio.me/certificate/9C6BD30C"> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | <a href="https://drive.google.com/file/d/1ekBek8OlkqxzRf5kXKkUETqHZJ_bp2pj/view?usp=sharing">August/2022</a> | HTML5 / CSS3 |
-| Capgemini|<img width="25" src="https://www.capgemini.com/us-en/wp-content/uploads/sites/4/2018/08/cropped-cropped-capgemini_logo_color_rgb.png"> <a href="http://capgeminischool.brazilsouth.cloudapp.azure.com/" > Start by Capgemini</a> |August/2022| <a href="https://docs.google.com/spreadsheets/d/1WU2xjzFD-BLgAhM-MMDD0aVAxT4asH--/edit?usp=sharing&ouid=105966872809198639014&rtpof=true&sd=true"> ![progress](https://progress-bar.dev/20/ "progresso") </a> | -- | JavaScript/ Angular/  Java  | 
+| Organization | Course | Start Date | Status | Stack |
+| -------|-----------|------------|------------- | -- | 
+| DIO | <img width="25" src="https://play-lh.googleusercontent.com/P3xTS7gQrh0S2e_99KmHVGiVUcvepvj4eFFhqU_y6XFRegRoo1fTZ8r6t1MUsmfRxXNJ" /> <a href="https://web.dio.me/home">HTML Web Developer</a> 27Hrs| 04/04/2022| <a href="https://www.dio.me/certificate/9C6BD30C"> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | HTML5 / CSS3 |
+| Startse | <img width="25" src="https://user-images.githubusercontent.com/100864562/182008732-c94e4f7a-cebb-4c65-8d96-82c661b6dce7.png" /> <a href="https://lms.startse.com/curso/tech-academy-turma-1">Full Stack Jr Developer</a> 100Hrs | 04/05/2022 | <a href="https://drive.google.com/file/d/1_QyeD7nUkO70rMq-UjWriNPJKEBbvhvo/view?usp=sharing">  ![progress](https://progress-bar.dev/100/ "progresso") </a> | JavaScript / NodeJS / MySQL |
+| FreecodeCamp | <img width="25" src="https://play-lh.googleusercontent.com/MoaYYQjGtmGLhG9HbjCDKyj44kwHj1HfbCI2Am70elRm35vJ-u4y4X5uEJjP97MAAsU"> <a href="freecodecamp.org/"> Responsive Web Design</a> 300Hrs | feb/22 | <a href="https://www.dio.me/certificate/9C6BD30C"> ![progress](https://progress-bar.dev/100/ "progresso")  </a> | HTML5 / CSS3 |
+| Capgemini|<img width="25" src="https://www.capgemini.com/us-en/wp-content/uploads/sites/4/2018/08/cropped-cropped-capgemini_logo_color_rgb.png"> <a href="http://capgeminischool.brazilsouth.cloudapp.azure.com/" > Start by Capgemini</a> |August/2022| <a href="https://docs.google.com/spreadsheets/d/1WU2xjzFD-BLgAhM-MMDD0aVAxT4asH--/edit?usp=sharing&ouid=105966872809198639014&rtpof=true&sd=true"> ![progress](https://progress-bar.dev/20/ "progresso") </a> | JavaScript/ Angular/  Java  | 
 <br>
 <h2> 🎓 Technologist/ Bachelor degree </h2>
 
-| University | Course | Stats | End |
-|-|-|-|-|
-| <a href="https://www.cruzeirodosul.edu.br/">  <img width="150" src="https://arquivos.cruzeirodosuleducacional.edu.br/criacao/salesforce/logos/cruzeiro_neg.png"></a>| Systems Analysis and Development [<a href="https://well-hardhat-f68.notion.site/c42becd16dc94939aa058f133d86555a?v=227371a7ee8b4cc884f1872d9e7cfa05"> curriculum </a>] | ![progress](https://progress-bar.dev/35/ "progresso")  | December<b>/2023</b> |
-| <a href="https://github.com/Universidade-Livre/ciencia-da-computacao"> <img width="35" src="https://pbs.twimg.com/profile_images/1534959519859605504/soL457b6_400x400.jpg"></a>| Computer Science | Not Started | - |
+| Organization | Course | Status |
+|-|-|-|
+| <a href="https://www.cruzeirodosul.edu.br/">  <img width="150" src="https://arquivos.cruzeirodosuleducacional.edu.br/criacao/salesforce/logos/cruzeiro_neg.png"></a>| Systems Analysis and Development [<a href="https://well-hardhat-f68.notion.site/c42becd16dc94939aa058f133d86555a?v=227371a7ee8b4cc884f1872d9e7cfa05"> curriculum </a>] | ![progress](https://progress-bar.dev/35/ "progresso")  | 
+| <a href="https://github.com/Universidade-Livre/ciencia-da-computacao"> <img width="35" src="https://pbs.twimg.com/profile_images/1534959519859605504/soL457b6_400x400.jpg"></a>| Computer Science | Not Started | 
 
 
 <br>
 <h2>💻 Courses</h2>
 
-| Organization | Course | Start Date | Status | End date |
-| ---- | ----- | ---- | ----- | -- |
+| Organization | Course | Start Date | Status | 
+| ---- | ----- | ---- | ----- | 
 | Let's Code | 🧠 <a href="https://cursos.letscode.com.br/curso-digital/2120c9f0-02ba-45c1-a81d-3ed26232cc0c">Logica Pura </a> (3,5h) | 27/07/2022 | ![progress](https://progress-bar.dev/100/ "progresso") |
 | Let's Code | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" /> <a href="https://cursos.letscode.com.br/curso-digital/5e4b6418-bbc5-4386-af61-a73990a4a745">Algoritmos </a> (2h) | 27/07/2022 | ![progress](https://progress-bar.dev/100/ "progresso")  |
 | Branas.io | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://app.branas.io/users/8ac8513f-244f-4092-bce0-6794de4bf142/products/676afa5b-994f-4b2a-a6f7-6221c540e6cc/contents/c967d642-60c7-4941-bed9-7ace14f11436">JavaScript </a> (12h) | 31/07/2022 | ![progress](https://progress-bar.dev/80/ "progresso")  |
-| B7Web | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://alunos.b7web.com.br/curso/javascript/descontruindo-objetos-1">JavaScript ECMA6 </a> (40h) | --- | Not Started |
-| Dev Lab | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab">Node JS com TypeScript </a> (20h) | --- | Not Started |
-| Glaucia Lemos | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H"> TypeScript Zero to Hero </a> (20h) | --- | Not Started |
+| B7Web | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://alunos.b7web.com.br/curso/javascript/descontruindo-objetos-1">JavaScript ECMA6 </a> (40h) | Not Started |  ![progress](https://progress-bar.dev/0/ "progresso")   |
+| Dev Lab | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab">Node JS com TypeScript </a> (20h) |Not Started|  ![progress](https://progress-bar.dev/0/ "progresso")   |
+| Glaucia Lemos | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H"> TypeScript Zero to Hero </a> (20h) | Not Started | ![progress](https://progress-bar.dev/0/ "progresso")   |
 | ORACLE | <img width="25" src="https://user-images.githubusercontent.com/100864562/183510087-2048a87f-49ad-485c-b20d-a772acb439f5.png"> <a href="https://learn.oracle.com/ols/module/overview/40805/79727"> Java Explorer SE 11 </a> 10Hrs | Not Started | ![progress](https://progress-bar.dev/0/ "progresso")  |
-| Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/angular"> Angular (v2+)</a> | --- |  Not Started |
-| Loiane Training |  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <a href="https://loiane.training/curso/crud-angular-spring"> CRUD Angular + Spring </a> | --- | Not Started |
-| Aprenda Mais MEC | <img width="25" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" /> <a href="https://aprendamais.mec.gov.br/course/view.php?id=467">Banco de Dados: fundamentos</a> (30h) - 31/01/2023 | --- | Not Started|
+| Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/angular"> Angular (v2+)</a> | Not Started |  ![progress](https://progress-bar.dev/0/ "progresso")  |
+| Loiane Training |  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <a href="https://loiane.training/curso/crud-angular-spring"> CRUD Angular + Spring </a> |Not Started|  ![progress](https://progress-bar.dev/0/ "progresso")   |
+| Aprenda Mais MEC | <img width="25" src="https://www.seekpng.com/png/full/336-3362777_mysql-logo-black-and-white-close-icon-png.png" /> <a href="https://aprendamais.mec.gov.br/course/view.php?id=467">Banco de Dados: fundamentos</a> (30h) - 31/01/2023 | Not Started|  ![progress](https://progress-bar.dev/0/ "progresso")  |
