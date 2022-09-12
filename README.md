@@ -21,7 +21,7 @@
 | Organization | Course | Status |
 |-|-|-|
 | <a href="https://www.cruzeirodosul.edu.br/">  <img width="150" src="https://arquivos.cruzeirodosuleducacional.edu.br/criacao/salesforce/logos/cruzeiro_neg.png"></a>| Systems Analysis and Development [<a href="https://well-hardhat-f68.notion.site/c42becd16dc94939aa058f133d86555a?v=227371a7ee8b4cc884f1872d9e7cfa05"> curriculum </a>] | ![progress](https://progress-bar.dev/35/ "progresso")  | 
-| <a href="https://github.com/Universidade-Livre/ciencia-da-computacao"> <img width="35" src="https://pbs.twimg.com/profile_images/1534959519859605504/soL457b6_400x400.jpg"></a>| Computer Science | Not Started | 
+| <a href="https://github.com/Universidade-Livre/ciencia-da-computacao"> <img width="35" src="https://pbs.twimg.com/profile_images/1534959519859605504/soL457b6_400x400.jpg"> Universidade Brasileira Livre </a>| Computer Science [<a href="https://github.com/Universidade-Livre/imagens/blob/main/curriculos/curriculo_ulivre_1.3.0.png" > curriculum </a>  ] | Not Started | 
 
 
 <br>
