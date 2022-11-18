@@ -1,7 +1,7 @@
 <h1 align="center"> Roadmap Java Full Stack</h1>
 
 <p align="center">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </p>
 <br>
 <h2>📌 BootCamps </h2>
@@ -28,8 +28,6 @@
 | ---- | ----- | ---- | ----- | 
 | Let's Code | 🧠 <a href="https://cursos.letscode.com.br/curso-digital/2120c9f0-02ba-45c1-a81d-3ed26232cc0c">Logica Pura </a> (3,5h) | 27/07/2022 | ![progress](https://progress-bar.dev/100/ "progresso") |
 | Let's Code | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" /> <a href="https://cursos.letscode.com.br/curso-digital/5e4b6418-bbc5-4386-af61-a73990a4a745">Algoritmos </a> (2h) | 27/07/2022 | ![progress](https://progress-bar.dev/100/ "progresso")  |
-| Branas.io | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://app.branas.io/users/8ac8513f-244f-4092-bce0-6794de4bf142/products/676afa5b-994f-4b2a-a6f7-6221c540e6cc/contents/c967d642-60c7-4941-bed9-7ace14f11436">JavaScript </a> (12h) | 31/07/2022 | ![progress](https://progress-bar.dev/100/ "progresso")  |
-| B7Web | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <a href="https://alunos.b7web.com.br/curso/javascript/descontruindo-objetos-1">JavaScript ECMA6 </a> (40h) | Not Started |  ![progress](https://progress-bar.dev/0/ "progresso")   |
 | Dev Lab | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&ab_channel=WaldemarNeto-DevLab">Node JS com TypeScript </a> (20h) |Not Started|  ![progress](https://progress-bar.dev/0/ "progresso")   |
 | Glaucia Lemos | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <a href="https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H"> TypeScript Zero to Hero </a> (20h) | Not Started | ![progress](https://progress-bar.dev/0/ "progresso")   |
 | Loiane Training | <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <a href="https://loiane.training/curso/angular"> Angular (v2+)</a> | Not Started |  ![progress](https://progress-bar.dev/0/ "progresso")  |
